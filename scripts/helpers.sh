@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 default_resurrect_dir="$HOME/.tmux/resurrect"
 resurrect_dir_option="@resurrect-dir"
 
